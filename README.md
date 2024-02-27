@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adithya2901
+- 👋 Hi, I’m adithya Dwi Rahmadita
 - 👋 I’m a menti on IBM Advance AI at Infinite Learning
 - 👋 I’m a student at Batam State Polytechnic College
 - 👀 I’m interested in the field of Ai and design
